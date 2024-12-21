@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "⛔ Question"
-    url: https://www.raspberrypi.org/forums
-    about: "Please do not use GitHub for asking questions. If you simply have a question, then the Raspberry Pi forums are the best place to ask it. Thanks in advance for helping us keep the issue tracker clean!"
-  - name: "⛔ Problems with the Raspbian distribution packages"
-    url: https://github.com/RPi-Distro/repo
-    about: "If you have problems with the Raspbian distribution packages, please report them in the github.com/RPi-Distro/repo."
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
